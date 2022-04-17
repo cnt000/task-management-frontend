@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "https://cnt000.github.io/task-management-frontend/static/js/main.21fb4306.chunk.js",
-    "main.js.map": "https://cnt000.github.io/task-management-frontend/static/js/main.21fb4306.chunk.js.map",
+    "main.js": "https://cnt000.github.io/task-management-frontend/static/js/main.98127cc6.chunk.js",
+    "main.js.map": "https://cnt000.github.io/task-management-frontend/static/js/main.98127cc6.chunk.js.map",
     "runtime~main.js": "https://cnt000.github.io/task-management-frontend/static/js/runtime~main.45df27e4.js",
     "runtime~main.js.map": "https://cnt000.github.io/task-management-frontend/static/js/runtime~main.45df27e4.js.map",
-    "static/js/2.9c67c15d.chunk.js": "https://cnt000.github.io/task-management-frontend/static/js/2.9c67c15d.chunk.js",
-    "static/js/2.9c67c15d.chunk.js.map": "https://cnt000.github.io/task-management-frontend/static/js/2.9c67c15d.chunk.js.map",
+    "static/js/2.e2576ddf.chunk.js": "https://cnt000.github.io/task-management-frontend/static/js/2.e2576ddf.chunk.js",
+    "static/js/2.e2576ddf.chunk.js.map": "https://cnt000.github.io/task-management-frontend/static/js/2.e2576ddf.chunk.js.map",
     "index.html": "https://cnt000.github.io/task-management-frontend/index.html",
-    "precache-manifest.33ba65f9f123f9198bc7b773767ad78f.js": "https://cnt000.github.io/task-management-frontend/precache-manifest.33ba65f9f123f9198bc7b773767ad78f.js",
+    "precache-manifest.e365cede9f0073ebfb3d3a5af8ae9440.js": "https://cnt000.github.io/task-management-frontend/precache-manifest.e365cede9f0073ebfb3d3a5af8ae9440.js",
     "service-worker.js": "https://cnt000.github.io/task-management-frontend/service-worker.js"
   }
 }
